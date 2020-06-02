@@ -21,3 +21,8 @@ Une fois le TP terminé, merci de me communiquer l'url de votre remote Git Hub.
 - Faites le commit de ces modifications dans votre nouvelle branche (ne pas oublier de commenter).
 - Poussez la nouvelle branche vers le remote Git Hub, en utilisant une commande GIT.
 - vous devez obtenir, sur votre Git Hub, une nouvelle branche qui contient le fichier html avec le paragraphe "Modifié en local".
+
+## Ressources
+Voic quelques ressources qui peuvent vous aider lors de votre TP, en plus de ce qui a été vu en cours :
+- [La documentation officiel de GIT](https://git-scm.com/doc),
+- [L'aide-mémoire de Git Hub](https://github.github.com/training-kit/downloads/github-git-cheat-sheet.pdf).
