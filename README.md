@@ -4,9 +4,8 @@ Répertoire local : tpgithub
 
 Faire d’un répertoire un repo git
 -soit le répertoire existe
-
-  % cd tpgithub
-  % git init
+    % cd tpgithub
+    % git init
 
 -soit le répertoire est à créer
 
